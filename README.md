@@ -244,26 +244,6 @@ Le système multimodal combine les forces de chaque modalité :
 
 La fusion tardée pondérée améliore généralement les performances par rapport aux modèles unimodaux.
 
-## 🤝 Contribution
+## Disponibilité des models et dataset
 
-Les contributions sont les bienvenues ! N'hésitez pas à :
-1. Fork le projet
-2. Créer une branche pour votre fonctionnalité (`git checkout -b feature/AmazingFeature`)
-3. Commit vos changements (`git commit -m 'Add some AmazingFeature'`)
-4. Push vers la branche (`git push origin feature/AmazingFeature`)
-5. Ouvrir une Pull Request
-
-## 📝 Licence
-
-Ce projet est fourni à des fins éducatives et de recherche.
-
-## 📧 Contact
-
-Pour toute question, veuillez ouvrir une issue sur GitHub.
-
-## 🙏 Remerciements
-
-- Dataset IEMOCAP
-- Hugging Face Transformers
-- PyTorch
-- Communauté open-source
+Les modèles utilisés sont déja présent sur huggingface : Asenn/MultimodalEmotionRecognition. Ainsi que le dataset utilisé : Asenn/Iemocap_Subset
